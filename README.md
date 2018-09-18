@@ -1,10 +1,8 @@
-Code Examples: ![travis_ci](https://travis-ci.org/bitcoinbook/bitcoinbook.svg?branch=develop)
-
-# Mastering Bitcoin
+# Mastering Bitcoin Audio Edition
 
 This repository contains the complete audio book for the [first edition, second print](https://github.com/bitcoinbook/bitcoinbook/releases/tag/Edition1Print2) of Mastering Bitcoin. The first release was created by converting the asciidoc files into HTML and TXT files then using the TXT files to recording speech to text in the m4a format. In the future, other audio formats (mp3, ogg, acc etc) and translations will be added.
 
-# Reading this book (Where is the PDF, TXT, & Audio Edition of the Second Edition?)
+## Reading this book (Where is the PDF, TXT, & Audio Edition of the Second Edition?)
 
 To read this book, see [book.asciidoc](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc). Click on each of the chapters to read in your browser. This is not as convenient as reading a PDF or an ebook on your e-reader, for which there is a cost (see below).
 
@@ -17,7 +15,7 @@ According to [original repo](https://github.com/bitcoinbook/bitcoinbook/) the bo
 
 
 
-# Source
+## Source
 
 The book's source code, found in this repository, is kept synchronized with the print and ebook editions.
 
@@ -38,9 +36,3 @@ The tags, [second_edition_print_1](https://github.com/bitcoinbook/bitcoinbook/re
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Mastering Bitcoin - Second Edition</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://antonopoulos.com/" property="cc:attributionName" rel="cc:attributionURL">Andreas M. Antonopoulos LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
 It is expected that the second edition will be released under a CC-BY-SA license within a year of publication.
-
-# Translations
-
-If you are interested in translating this book, please join our team of volunteers at: https://www.transifex.com/bitcoinbook/mastering-bitcoin/
-
-Free copies of "Mastering Bitcoin Open Edition," translated in many languages, can be downloaded from: https://bitcoinbook.info
