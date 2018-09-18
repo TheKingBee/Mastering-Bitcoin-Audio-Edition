@@ -2,33 +2,20 @@ Code Examples: ![travis_ci](https://travis-ci.org/bitcoinbook/bitcoinbook.svg?br
 
 # Mastering Bitcoin
 
-Mastering Bitcoin is a book for developers, although the first two chapters cover bitcoin at a level that is also approachable to non-programmers. Anyone with a basic understanding of technology can read the first two chapters to get a great understanding of bitcoin.
+This repository contains the complete audio book for the [first edition, second print](https://github.com/bitcoinbook/bitcoinbook/releases/tag/Edition1Print2) of Mastering Bitcoin. The first release was created by converting the asciidoc files into HTML and TXT files then using the TXT files to recording speech to text in the m4a format. In the future, other audio formats (mp3, ogg, acc etc) and translations will be added.
 
-This repository contains the complete [first edition, second print](https://github.com/bitcoinbook/bitcoinbook/releases/tag/Edition1Print2), published in December 2014, and the complete [second edition, second print](https://github.com/bitcoinbook/bitcoinbook/releases/tag/second_edition_print2), published in July 2017, as published by O'Reilly Media in paperback and ebook formats.
-
-# Issues, Errors, Comments, Contributions
-
-If you know how to make a pull request to contribute a fix, please write the correction and use a pull request to submit it for consideration against the [develop branch](https://github.com/bitcoinbook/bitcoinbook/tree/develop). If you are making several changes, please use a separate commit for each to make it easier to cherry-pick or resolve conflicts. Otherwise, please submit an issue, explaining the error or comment. If you would like to contribute extensive changes or new material, please coordinate with the author first; contact information can be found on his web site: https://antonopoulos.com/
-
-# Reading this book (Where is the PDF?)
+# Reading this book (Where is the PDF, TXT, & Audio Edition of the Second Edition?)
 
 To read this book, see [book.asciidoc](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc). Click on each of the chapters to read in your browser. This is not as convenient as reading a PDF or an ebook on your e-reader, for which there is a cost (see below).
 
 The 2nd edition of "Mastering Bitcoin" is available under a CC-BY-NC-ND license, not a CC-BY-SA license.
 
-It is deliberately not available as a PDF. Why? Because a PDF is a "derivative" product, which is what the ND prohibits. That's because the publisher (O'Reilly Media) is a for-profit publisher who puts considerable resources behind distributing the book. The book will eventually (within a year of publication) be released under a CC-BY-SA license, at which point the PDF format and translations will be allowed. Until then, making PDF copies violates the license and interferes with the publisher's (and the author's) ability to make a living. Furthermore, if you make it so the publisher can't recoup their investment, they will delay the release into CC-BY-SA.
+Therefore an audio book is a "derivative" product, which is what the ND prohibits. 
 
-Please don't create or distribute PDFs until the license is changed to CC-BY-SA. It is rare for a publisher to even agree to a CC-BY-NC-ND license. Don't make it harder for free culture by violating even that, already generous, license. 
+According to [original repo](https://github.com/bitcoinbook/bitcoinbook/) the book will eventually (within a year of publication) be released under a CC-BY-SA license, at which point the audio book format and translations will be allowed. Until then, making audio copies violates the license and interferes with the publisher's (and the author's) ability to make a living. Furthermore, if you make it so the publisher can't recoup their investment, they will delay the release into CC-BY-SA.
 
-# Published
 
-"Mastering Bitcoin (Second Edition, Second Print): Programming the Open Blockchain" is now available in paperback and ebook formats by many book sellers worldwide:
 
-* [Amazon](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388)
-
-Mastering Bitcoin (First Edition Second Print) is also published in Japanese, Korean, and Chinese (Simplified) by publishers in the respective countries.
-
-Mastering Bitcoin (Open Edition), based on the First Edition, has been translated by volunteers into more than a dozen languages. Translations are available for free under CC-BY-SA license at: https://bitcoinbook.info
 
 # Source
 
