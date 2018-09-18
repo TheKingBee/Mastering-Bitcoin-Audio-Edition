@@ -3,3 +3,4 @@ code/python-env
 *.csv
 *.pdf
 .debris
+.DS_Store
