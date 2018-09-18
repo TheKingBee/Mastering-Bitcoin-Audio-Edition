@@ -1,7 +1,7 @@
 # Mastering Bitcoin Audio Edition
 
 
-This repository contains the complete audio book for the [first edition, second print](https://github.com/bitcoinbook/bitcoinbook/releases/tag/Edition1Print2) of Mastering Bitcoin. The first release was created by converting the asciidoc files into HTML and TXT files then using the TXT files to recording speech to text in the m4a format. In the future, other audio formats (mp3, ogg, acc etc) and translations will be added.
+This repository contains the complete audio book for the [first edition, second print](https://github.com/bitcoinbook/bitcoinbook/releases/tag/Edition1Print2) of Mastering Bitcoin. The first release was created by converting the asciidoc files into HTML and TXT files then converting the TXT files to m4a files using the Mac OS's speech to text engine. In the future, other audio formats (mp3, ogg, acc etc) and translations will be added.
 
 [Chapter 1 Audio](https://github.com/TheKingBee/Mastering-Bitcoin-Audio-Edition/blob/develop/Edition1-Print2-files/audio/ch01.m4a)
 
